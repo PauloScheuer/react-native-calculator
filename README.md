@@ -8,3 +8,9 @@ Principais diferenças entre a desenvolvida nas video aulas e essa:
   
 - Funcionalidade de apagar:
   Como essa versão possui a expressão sendo escrita e mostrada, se torna necessário um botão de apagar, que deleta o último caractere.
+  
+- Ícones:
+  Ao invés de caracteres, foram utilizados ícones da coleção Feather
+  
+- Estilo:
+  A estilização da aplicação foi customizada, adicionado sombras, bordas arredondadas e cores diferentes, de forma a tornar a calculadora mais agradável.
